@@ -20,7 +20,7 @@
 - **Deployment**: Render
 
 ## 📸 Screenshots
-![Homepage](https://github.com/your-username/your-repo/assets/homepage-screenshot.png)
+![Homepage Preview](homepage.png)
 
 ## 🚀 Live Demo
 🔗 [Right & Lights Web App](https://rights-and-lights.onrender.com)
