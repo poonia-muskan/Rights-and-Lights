@@ -20,7 +20,9 @@
 - **Deployment**: Render
 
 ## 📸 Screenshots
-![Homepage Preview](homepage.png)
+![Screenshot 2025-06-20 175110](https://github.com/user-attachments/assets/d1f09a14-174d-4d28-af5a-57877935ef78)
+![Screenshot 2025-06-20 175110](https://github.com/user-attachments/assets/d1f09a14-174d-4d28-af5a-57877935ef78)
+
 
 ## 🚀 Live Demo
 🔗 [Right & Lights Web App](https://rights-and-lights.onrender.com)
